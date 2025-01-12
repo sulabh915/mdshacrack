@@ -1,5 +1,5 @@
-mdshacrack is a Python-based tool designed to crack MD5,SHA1,SHA256,SHA514 hashes by comparing them against a user-provided wordlist. 
-This utility is useful for security professionals and enthusiasts aiming to test the strength of MD5,SHA1,SHA256,SHA514 passwords.
+**mdshacrack is a Python-based tool designed to crack MD5,SHA1,SHA256,SHA514 hashes by comparing them against a user-provided wordlist. 
+**This utility is useful for security professionals and enthusiasts aiming to test the strength of MD5,SHA1,SHA256,SHA514 passwords.
 
 Features
 MDSHAHash Cracking: Attempts to find the original string corresponding to a given MD5 hash by comparing it against entries in a wordlist.
