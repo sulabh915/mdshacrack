@@ -47,5 +47,8 @@ Example:
 python3 mdshacrack.py -ht 4 -h 85361f099b282ab22a0d1c8b0d9da0b1e478accc5384aae73fba7a7099be5d35 -w /usr/share/wordlists/rockyou.txt
 ```
 ## Video guide
+
+https://github.com/user-attachments/assets/73ba39c9-4c03-41b0-ba5a-db28b9cb032a
+
 ## Disclaimer
 This tool is intended for educational purposes and authorized testing only. Unauthorized use against systems without explicit permission is illegal and unethical.
