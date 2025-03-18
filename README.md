@@ -29,7 +29,7 @@ Saved the all cracked password to file , program always check if the hash is alr
 Here step by step guide.
 
 ```bash
-git clone https://github.com/sulabhprajapati456/mdshacrack.git
+git clone https://github.com/sulabh915/mdshacrack.git
 cd mdshacrack
 pip install -r requirement.txt
 python3 mdshacrack.py -h
